@@ -26,6 +26,9 @@ NESTE PROJETO TODOS OS INTEGRANTES PARTICIPARAM EM TODOS OS PROCESSOS,  DESDE FO
 -E, por último, você pode pensar nas suas próprias perguntas e tentar responde-las utilizando o banco.
 
 
+
+[Link da apresentação - slides do projeto](https://prezi.com/i/v3topmhg_znt/)
+
 * Queremos agradecer aqui, os facilitadores, monitores, colegas de turma, e a todos que nos apoiaram nessa jornada.
 
 Salve, T12. #partiuModulo4
