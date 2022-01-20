@@ -17,11 +17,11 @@ NESTE PROJETO TODOS OS INTEGRANTES PARTICIPARAM EM TODOS OS PROCESSOS,  DESDE FO
 
 -Você pode utilizar o arquivo 'geral_tabelas_populacao_final.sql' para criar as tabelas e já preenche-las tudo de uma vez;
 
--Ou você pode utilizar o arquivo 'criacao_tabelas_final.sql' para gerar as tabelas(entidades) e depois rodar o arquivo 'populacao_final.sql' para popular as tabelas;
+-Ou você pode utilizar o arquivo 'criacao_tabelas_final.sql' para gerar as tabelas (entidades) e depois rodar o arquivo 'populacao_final.sql' para popular as tabelas;
 
 -Além disso, você pode rodar o arquivo 'selects.sql' para verificar algumas consultas que o grupo utilizou para responder as perguntas, no caso, as perguntas estão como comentário acima da query;
 
--Você pode também abrir o arquivo 'Modelagem_Final.pgerd' direto no PGAdmin e verificar a modelagem e os relacionamentos dasentidades utilizadas no projeto;
+-Você pode também abrir o arquivo 'Modelagem_Final.pgerd' direto no PGAdmin e verificar a modelagem e os relacionamentos das entidades utilizadas no projeto;
 
 -E, por último, você pode pensar nas suas próprias perguntas e tentar responde-las utilizando o banco.
 
